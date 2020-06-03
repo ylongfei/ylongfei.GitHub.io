@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ylongfei.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-03T10:47:46.012Z</updated>
+    <updated>2020-06-03T10:54:02.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ylongfei.github.io"/>
     <link rel="self" href="https://ylongfei.github.io/atom.xml"/>
@@ -16,13 +16,6 @@
         <link href="https://ylongfei.github.io/chang-jian-dian-nao-jiu-da-wen-ti-jie-jue-fang-fa/">
         </link>
         <updated>2020-06-03T09:54:32.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://ylongfei.github.io/about/</id>
-        <link href="https://ylongfei.github.io/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
